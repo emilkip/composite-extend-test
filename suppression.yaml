@@ -1,12 +1,6 @@
-elb-inventory:
-  - put-your-object-id-here-1: ""
-  - put-your-object-id-here-2: "2017-01-10T00:00Z"
-elb-old-ssl-policy:
-  - put-your-object-id-here-1: ""
-  - put-your-object-id-here-2: "2017-01-10T00:00Z"
 elb-current-ssl-policy:
-  - put-your-object-id-here-1: ""
-  - put-your-object-id-here-2: "2017-01-10T00:00Z"
+  - cc-577bf0f04c1-vpn-dev-elb: ""
+  - cc-5780ad83d13-mongodb-elb: "2017-01-10T00:00Z"
 
 # Suppression times (optional) use ISO date formats according to this template:
 #
